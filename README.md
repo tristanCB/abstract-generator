@@ -7,7 +7,7 @@ Gets text data from https://arxiv.org/ API and uses it for character-level text 
 # Example use
 ```python scisctractGen.py --topic fluids```
 
-# Example resutls
+# Example results
 |Topic|Fluids|
 |---|---|
 |Corpus length| 1714055|
