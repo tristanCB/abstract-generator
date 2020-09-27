@@ -1,7 +1,8 @@
-
-# To data scrapped from https://arxiv.org/ API.
+# #!/usr/bin/env python
+# Scrapes data using https://arxiv.org/ API, parses it using beaufiful soup 4. 
+# Saves output to .csv file and runs a keras example using the scrapped web data for training.
+# Generates scientific word vomits.
 # Author: TristanCB
-
 import time
 import requests
 import csv
